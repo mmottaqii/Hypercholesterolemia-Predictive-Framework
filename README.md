@@ -8,6 +8,7 @@ Hypercholesterolemia involves high levels of LDL cholesterol, which can lead to 
 
 ![Challenge Overview](figures/about.jpg)
 
+
 ## Repository Structure
 
 - `scripts/`: Contains Jupyter notebooks and Python scripts for data preprocessing and model development.
