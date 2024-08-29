@@ -6,7 +6,7 @@ This repository contains the code and documentation for the DREAM Challenge proj
 
 Hypercholesterolemia involves high levels of LDL cholesterol, which can lead to arterial plaque buildup and increased risks of heart attack and stroke. The DREAM Challenge seeks innovative approaches to predict and mitigate these risks through the analysis of health, genetic, lifestyle, and environmental data.
 
-![Challenge Overview](pictures/challenge_overview.png)
+![Challenge Overview](figures/about.jpg)
 
 ## Repository Structure
 
