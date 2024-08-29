@@ -33,7 +33,7 @@ Data for this challenge is sourced from PEGS, encompassing:
 - Environmental exposure data
 - Geospatial data
 
-Due to privacy concerns, data access is restricted. Please refer to [PEGS/NIEHS](LINK_TO_DATA_ACCESS) for more details.
+Due to privacy concerns, data access is restricted. Please refer to [PEGS/NIEHS](https://www.synapse.org/Synapse:syn52817032/wiki/627638) for more details.
 
 ## Dependencies
 
@@ -50,7 +50,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any queries related to this repository, please contact [CONTACT_INFORMATION].
+For any queries related to this repository, please contact me.
 
 ## Acknowledgments
 
