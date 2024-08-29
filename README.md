@@ -8,6 +8,7 @@ Hypercholesterolemia involves high levels of LDL cholesterol, which can lead to 
 
 ![Challenge Overview](figures/about.jpg)
 
+![Challenge genomics data](figures/genomics.jpg)
 
 ## Repository Structure
 
@@ -15,7 +16,7 @@ Hypercholesterolemia involves high levels of LDL cholesterol, which can lead to 
   - `Processing_Dream.ipynb`: Notebook detailing data integration, preprocessing, and model training.
   - `SNVs_plink_processing.py`: Script for processing SNV data.
 - `assets/`: Includes resources such as SNP lists related to phenotype and clinical outcomes.
-- `pictures/`: Folder for graphical resources, including the challenge overview diagram.
+- `figures/`: Folder for graphical resources, including the challenge overview diagram.
 
 ## Getting Started
 
@@ -45,7 +46,7 @@ Due to privacy concerns, data access is restricted. Please refer to [PEGS/NIEHS]
 
 ## License
 
-This project is licensed under the MIT License - see [LICENSE.md](LICENSE_LINK) for details.
+This project is licensed under the MIT License.
 
 ## Contact
 
